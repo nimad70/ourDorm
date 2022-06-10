@@ -1,0 +1,7 @@
+{
+  "name": "UDorm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
